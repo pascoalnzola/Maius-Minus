@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(56, 56, 124, 0.836);
+}
+main{
+    max-width: max-content;
+    margin: auto;
+    margin-top: 10%;
+}
+div{
+    background-color: rgb(51, 44, 44);
+    padding: 7px;
+    border-radius: 5px;
+}
+h3{
+    text-align: center;
+    color: white;
+}
